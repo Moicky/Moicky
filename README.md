@@ -5,5 +5,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=Moicky&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Moicky&theme=tokyonight&hide_border=true)<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=moicky&icon=5&color=6)](https://visitcount.itsvg.in)
