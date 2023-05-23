@@ -9,4 +9,4 @@
 
 # NPM Packages
 Check out my package on NPM:
-- [@moicky/dynamodb](https://www.npmjs.com/package/@moicky/dynamodb)
+- [@moicky/dynamodb](https://www.npmjs.com/package/@moicky/dynamodb) ![npm](https://img.shields.io/npm/v/@moicky/dynamodb.svg?style=for-the-badge)
