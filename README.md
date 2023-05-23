@@ -7,3 +7,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moicky&theme=tokyonight&hide_border=true"/>
 </div>
 
+# NPM Packages
+Check out my package on NPM:
+- [@moicky/dynamodb](https://www.npmjs.com/package/@moicky/dynamodb)
