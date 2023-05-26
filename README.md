@@ -9,4 +9,4 @@
 
 # NPM Packages
 Check out my package on NPM:
-- [@moicky/dynamodb](https://www.npmjs.com/package/@moicky/dynamodb) ![npm](https://img.shields.io/npm/v/@moicky/dynamodb.svg?style=for-the-badge)
+- [@moicky/dynamodb](https://www.npmjs.com/package/@moicky/dynamodb) ![npm](https://img.shields.io/npm/v/@moicky/dynamodb.svg) ![](https://img.shields.io/github/actions/workflow/status/moicky/dynamodb/npm-publish.yml?label=build) ![](https://img.shields.io/github/actions/workflow/status/moicky/dynamodb/run-tests.yml?label=tests) ![](https://img.shields.io/github/languages/count/moicky/dynamodb) ![](https://img.shields.io/bundlephobia/min/@moicky/dynamodb)
