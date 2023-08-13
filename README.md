@@ -1,12 +1,282 @@
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Moicky
 
-# Tech Stack
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-# Stats
+## I'm always building something by heart
+
+I'm always looking for new challenges and things to learn. Currently working with Mobile Apps, Web Apps and serverside Applications.
+
+### Language-Skills
+
+<p align="left">
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
+      alt="TypeScript"
+      width="36"
+      height="36"
+  /></a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    target="_blank"
+    rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
+      alt="JavaScript"
+      width="36"
+      height="36"
+  /></a>
+  <a
+    href="https://docs.microsoft.com/en-us/dotnet/csharp/"
+    target="_blank"
+    rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg"
+      alt="C#"
+      width="36"
+      height="36"
+  /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
+      alt="Git"
+      width="36"
+      height="36"
+  /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"
+      alt="Python"
+      width="36"
+      height="36"
+  /></a>
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg"
+      alt="Swift"
+      width="36"
+      height="36"
+  /></a>
+</p>
+
+### Frontend-Skills
+
+<p align="left">
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg"
+      alt="Vite"
+      width="36"
+      height="36"
+  /></a>
+  <a href="https://remix.run/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/remix-colored-dark.svg"
+      alt="Remix"
+      width="36"
+      height="36"
+  /></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
+      alt="React"
+      width="36"
+      height="36"
+  /></a>
+  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg"
+      alt="NextJs"
+      width="36"
+      height="36"
+  /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
+      alt="TailwindCSS"
+      width="36"
+      height="36"
+  /></a>
+  <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg"
+      alt="Chakra UI"
+      width="36"
+      height="36"
+  /></a>
+  <a href="https://mui.com/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg"
+      alt="Material UI"
+      width="36"
+      height="36"
+  /></a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
+    target="_blank"
+    rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
+      alt="HTML5"
+      width="36"
+      height="36"
+  /></a>
+    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
+      alt="CSS3"
+      width="36"
+      height="36"
+  /></a>
+</p>
+
+### Backend-Skills
+
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg"
+      alt="Amazon Web Services"
+      width="36"
+      height="36"
+  /></a>
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"
+      alt="NodeJS"
+      width="36"
+      height="36"
+  /></a>
+  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg"
+      alt="Webpack"
+      width="36"
+      height="36"
+  /></a>
+  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored-dark.svg"
+      alt="Babel"
+      width="36"
+      height="36"
+  /></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg"
+      alt="Express"
+      width="36"
+      height="36"
+  /></a>
+  <a href="https://graphql.org/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg"
+      alt="GraphQL"
+      width="36"
+      height="36"
+  /></a>
+  <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg"
+      alt="NestJS"
+      width="36"
+      height="36"
+  /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"
+      alt="MySQL"
+      width="36"
+      height="36"
+  /></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"
+      alt="PostgreSQL"
+      width="36"
+      height="36"
+  /></a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg"
+      alt="Firebase"
+      width="36"
+      height="36"
+  /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg"
+      alt="Docker"
+      width="36"
+      height="36"
+  /></a>
+</p>
+
+### Web3-Skills
+
+<p align="left">
+  <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg"
+      alt="Ethereum"
+      width="36"
+      height="36"
+  /></a>
+  <a href="https://trufflesuite.com" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/truffle-colored.svg"
+      alt="Truffle"
+      width="36"
+      height="36"
+  /></a>
+  <a href="https://metamask.io/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg"
+      alt="MetaMask"
+      width="36"
+      height="36"
+  /></a>
+  <a href="https://ethers.io" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg"
+      alt="Ethers"
+      width="36"
+      height="36"
+  /></a>
+  <a
+    href="https://web3js.readthedocs.io/en/v1.7.1/#"
+    target="_blank"
+    rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg"
+      alt="Web3Js"
+      width="36"
+      height="36"
+  /></a>
+  <a href="https://uniswap.org/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/uniswap-colored.svg"
+      alt="Uniswap"
+      width="36"
+      height="36"
+  /></a>
+  <a href="https://ipfs.io/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored-dark.svg"
+      alt="IPFS"
+      width="36"
+      height="36"
+  /></a>
+</p>
+
+## GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moicky&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moicky&theme=tokyonight&hide_border=true"/>
+<a href="http://www.github.com/Moicky"><img src="https://github-readme-stats.vercel.app/api?username=Moicky&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true&theme=tokyonight" alt="Moicky's GitHub stats" /></a>
+<a href="http://www.github.com/Moicky"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Moicky&theme=tokyonight&hide_border=true" /></a>
+</div>
+<div align="center">
+<a href="https://github.com/Moicky" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moicky&langs_count=10&theme=tokyonight&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
 
-# NPM Packages
-Check out my package on NPM 😀:
-- [@moicky/dynamodb](https://www.npmjs.com/package/@moicky/dynamodb) ![npm](https://img.shields.io/npm/v/@moicky/dynamodb.svg) ![](https://img.shields.io/github/actions/workflow/status/moicky/dynamodb/npm-publish.yml?label=build) ![](https://img.shields.io/github/actions/workflow/status/moicky/dynamodb/run-tests.yml?label=tests) ![](https://img.shields.io/github/languages/count/moicky/dynamodb) ![](https://img.shields.io/bundlephobia/min/@moicky/dynamodb)
+### Top Repositories
+
+<div width="100%" align="center"><a href="https://github.com/Moicky/dynamodb" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Moicky&repo=dynamodb&theme=tokyonight&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
