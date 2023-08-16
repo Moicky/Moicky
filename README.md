@@ -55,6 +55,20 @@ I'm always looking for new challenges and things to learn. Currently working wit
       width="36"
       height="36"
   /></a>
+  <a href="https://java.com" target="_blank" rel="noreferrer"
+    ><img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+      alt="Java"
+      width="36"
+      height="36"
+  /></a>
+  <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"
+    ><img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg"
+      alt="Java"
+      width="36"
+      height="36"
+  /></a>
 </p>
 
 ### Frontend-Skills
@@ -213,6 +227,14 @@ I'm always looking for new challenges and things to learn. Currently working wit
 ### Web3-Skills
 
 <p align="left">
+  <a href="https://docs.soliditylang.org/en" target="_blank" rel="noreferrer"
+    ><img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg"
+      alt="Solidity"
+      width="36"
+      height="36"
+      style="fill:white"
+  /></a>
   <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"
     ><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg"
