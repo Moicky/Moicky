@@ -292,7 +292,6 @@ I'm always looking for new challenges and things to learn. Currently working wit
 ## GitHub Stats
 
 <div align="center">
-<a href="http://www.github.com/Moicky"><img src="https://github-readme-stats.vercel.app/api?username=Moicky&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true&theme=tokyonight" alt="Moicky's GitHub stats" /></a>
 <a href="http://www.github.com/Moicky"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Moicky&theme=tokyonight&hide_border=true" /></a>
 </div>
 <div align="center">
