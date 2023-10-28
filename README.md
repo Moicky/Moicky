@@ -187,13 +187,6 @@ I'm always looking for new challenges and things to learn. Currently working wit
       width="36"
       height="36"
   /></a>
-  <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg"
-      alt="NestJS"
-      width="36"
-      height="36"
-  /></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"
     ><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"
