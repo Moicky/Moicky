@@ -222,7 +222,7 @@ I'm always looking for new challenges and things to learn. Currently working wit
 <p align="left">
   <a href="https://docs.soliditylang.org/en" target="_blank" rel="noreferrer"
     ><img
-      src="https://raw.githubusercontent.com/ethereum/solidity/develop/docs/logo.svg"
+      src="./images/solidity.svg"
       alt="Solidity"
       width="36"
       height="36"
