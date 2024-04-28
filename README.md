@@ -242,13 +242,6 @@ I'm always looking for new challenges and things to learn. Currently working wit
       width="36"
       height="36"
   /></a>
-  <a href="https://metamask.io/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg"
-      alt="MetaMask"
-      width="36"
-      height="36"
-  /></a>
   <a href="https://ethers.io" target="_blank" rel="noreferrer"
     ><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg"
