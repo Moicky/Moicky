@@ -2,7 +2,7 @@
 
 ## I'm always building something by heart
 
-I'm always looking for new challenges and things to learn. Currently working with Mobile Apps, Web Apps and serverside Applications.
+I'm always looking for new challenges and things to learn. Currently working with Web Apps and serverside Applications.
 
 ### Language-Skills
 
