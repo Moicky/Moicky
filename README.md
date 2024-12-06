@@ -74,13 +74,6 @@ I'm always looking for new challenges and things to learn. Currently working wit
 ### Frontend-Skills
 
 <p align="left">
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg"
-      alt="Vite"
-      width="36"
-      height="36"
-  /></a>
   <a href="https://remix.run/" target="_blank" rel="noreferrer"
     ><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/remix-colored-dark.svg"
@@ -88,17 +81,17 @@ I'm always looking for new challenges and things to learn. Currently working wit
       width="36"
       height="36"
   /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
-      alt="React"
-      width="36"
-      height="36"
-  /></a>
   <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"
     ><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg"
       alt="NextJs"
+      width="36"
+      height="36"
+  /></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
+      alt="React"
       width="36"
       height="36"
   /></a>
@@ -235,16 +228,16 @@ I'm always looking for new challenges and things to learn. Currently working wit
       width="36"
       height="36"
   /></a>
-  <a href="https://trufflesuite.com" target="_blank" rel="noreferrer"
+  <a href="https://hardhat.org" target="_blank" rel="noreferrer"
     ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/truffle-colored.svg"
-      alt="Truffle"
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg"
+      alt="Hardhat"
       width="36"
       height="36"
   /></a>
   <a href="https://ethers.io" target="_blank" rel="noreferrer"
     ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg"
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers.svg"
       alt="Ethers"
       width="36"
       height="36"
