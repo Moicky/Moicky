@@ -1,10 +1,8 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-
-## I'm always building something by heart
-
-I'm always looking for new challenges and things to learn. Currently working with Web Apps and serverside Applications.
-
-### Language-Skills
+# Hi
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+## I'm always building something by heart I'm always looking for new challenges
+and things to learn. Currently working with Web Apps and serverside
+Applications. ### Language-Skills
 
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"
@@ -126,10 +124,17 @@ I'm always looking for new challenges and things to learn. Currently working wit
       width="36"
       height="36"
   /></a>
-    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"
     ><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
       alt="CSS3"
+      width="36"
+      height="36"
+  /></a>
+  <a href="https://plotly.com/javascript/" target="_blank" rel="noreferrer"
+    ><img
+      src="./images/plotly.svg"
+      alt="Plotly"
       width="36"
       height="36"
   /></a>
@@ -219,7 +224,7 @@ I'm always looking for new challenges and things to learn. Currently working wit
       alt="Solidity"
       width="36"
       height="36"
-      style="fill:white"
+      style="fill: white"
   /></a>
   <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"
     ><img
@@ -271,12 +276,26 @@ I'm always looking for new challenges and things to learn. Currently working wit
 ## GitHub Stats
 
 <div align="center">
-<a href="http://www.github.com/Moicky"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Moicky&theme=tokyonight&hide_border=true" /></a>
+  <a href="http://www.github.com/Moicky"
+    ><img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Moicky&theme=tokyonight&hide_border=true"
+  /></a>
 </div>
 <div align="center">
-<a href="https://github.com/Moicky" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moicky&langs_count=10&theme=tokyonight&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  <a href="https://github.com/Moicky" align="left"
+    ><img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moicky&langs_count=10&theme=tokyonight&hide_border=true&locale=en&custom_title=Top%20%Languages"
+      alt="Top Languages"
+  /></a>
 </div>
 
 ### Top Repositories
 
-<div width="100%" align="center"><a href="https://github.com/Moicky/dynamodb" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Moicky&repo=dynamodb&theme=tokyonight&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+  <a href="https://github.com/Moicky/dynamodb" align="left"
+    ><img
+      align="left"
+      width="45%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Moicky&repo=dynamodb&theme=tokyonight&hide_border=true&locale=en"
+  /></a>
+</div>
